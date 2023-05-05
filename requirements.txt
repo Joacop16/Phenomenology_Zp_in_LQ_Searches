@@ -1,0 +1,13 @@
+ipyparallel
+pyppeteer
+jupyter
+jupyterlab
+jupyterhub
+nbconvert[webpdf]
+metakernel
+matplotlib
+pandas
+uproot
+scikit-learn
+XGBoost
+lxml
