@@ -11,3 +11,4 @@ uproot
 scikit-learn
 XGBoost
 lxml
+openpyxl

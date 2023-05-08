@@ -13,6 +13,9 @@ __pycache__/
 MG5_debug
 py.py
 
+# Temporary files
+tmp/
+
 # Distribution / packaging
 .Python
 build/
