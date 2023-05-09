@@ -1,0 +1,5 @@
+
+import model Mod2_VLQ_UFO 
+define lq = vlq vlq~
+define ta = ta+ ta-
+generate p p > zp > ta ta @0 QED = 0 QCD = 0 
