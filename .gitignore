@@ -15,6 +15,7 @@ py.py
 
 # Temporary files
 tmp/
+Uniandes_Framework/
 
 # Distribution / packaging
 .Python
