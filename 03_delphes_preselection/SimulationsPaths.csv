@@ -1,0 +1,16 @@
+name,path,xs(pb)
+stop,/Madgraph_Simulations/SM_Backgrounds/stop,241.17
+ttbar,/Madgraph_Simulations/SM_Backgrounds/ttbar/,504.696
+z_jets,/Madgraph_Simulations/SM_Backgrounds/z_jets/,43029.27
+w_jets,/Madgraph_Simulations/SM_Backgrounds/w_jets/,146548.3
+ww,/Madgraph_Simulations/SM_Backgrounds/ww/,65.50736
+zz,/Madgraph_Simulations/SM_Backgrounds/zz/,9.562416
+wz,/Madgraph_Simulations/SM_Backgrounds/wz/,24.69184
+ta_ta_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/ta_ta/M1000_gU1_5000,0.02374
+ta_ta_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/ta_ta/M1500_gU1_5000,0.005217
+zp_tau_tau_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/zp_tau_tau/M1000_gU1_5000,0.1909
+zp_tau_tau_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/zp_tau_tau/M1500_gU1_5000,0.02706
+lq_lq_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_lq/M1000_gU1_5000,0.1945
+lq_lq_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_lq/M1500_gU1_5000,0.006453
+lq_ta_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_ta/M1000_gU1_5000,0.0353
+lq_ta_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_ta/M1500_gU1_5000,0.002133
