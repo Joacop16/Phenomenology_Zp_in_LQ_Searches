@@ -1,8 +1,8 @@
-,woRHC_zp_upper_limit_non-res_tau_tau_mu_1000_gu1_75_gzp_1_25,woRHC_zp_upper_limit_non-res_tau_tau_mu_1000_gu1_75_gzp_1_5
+,woRHC_zp_upper_limit_non-res_tau_tau_mu_1000_gu1_75_gzp_1_5,woRHC_zp_upper_limit_zp_tau_tau_mu_1000_gu1_75_gzp_1_5
 XS,1.0,1.0
 All,50000,50000
-Maximum 1 light lepton,48454,48444
-Exactly 2 leptons,9521,9636
-hadronic selection,4315,4394
-sLQ selection,1083,1045
-DeltaR > 0.3,1083,1045
+Maximum 1 light lepton,48444,47991
+Exactly 2 leptons,9636,11279
+hadronic selection,4394,4951
+sLQ selection,1045,1267
+DeltaR > 0.3,1045,1267

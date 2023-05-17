@@ -6,11 +6,5 @@ w_jets,/Madgraph_Simulations/SM_Backgrounds/w_jets/,146548.3
 ww,/Madgraph_Simulations/SM_Backgrounds/ww/,65.50736
 zz,/Madgraph_Simulations/SM_Backgrounds/zz/,9.562416
 wz,/Madgraph_Simulations/SM_Backgrounds/wz/,24.69184
-ta_ta_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/ta_ta/M1000_gU1_5000,0.02374
-ta_ta_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/ta_ta/M1500_gU1_5000,0.005217
-zp_tau_tau_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/zp_tau_tau/M1000_gU1_5000,0.1909
-zp_tau_tau_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/zp_tau_tau/M1500_gU1_5000,0.02706
-lq_lq_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_lq/M1000_gU1_5000,0.1945
-lq_lq_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_lq/M1500_gU1_5000,0.006453
-lq_ta_m1000_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_ta/M1000_gU1_5000,0.0353
-lq_ta_m1500_g1_5,/home/Cristian/SIMULATIONS/lq_zp_woRHC/lq_ta/M1500_gU1_5000,0.002133
+woRHC_zp_upper_limit_non-res_tau_tau_mu_1000_gu1_75_gzp_1_5,/disco4/personal_folders/Cristian/SIMULATIONS/lq_zp/woRHC/zp_upper_limit/non-res_tau_tau/mu_1000_gu1_75_gzp_1_5,1.0
+woRHC_zp_upper_limit_zp_tau_tau_mu_1000_gu1_75_gzp_1_5,/disco4/personal_folders/Cristian/SIMULATIONS/lq_zp/woRHC/zp_upper_limit/zp_tau_tau/mu_1000_gu1_75_gzp_1_5,1.0
