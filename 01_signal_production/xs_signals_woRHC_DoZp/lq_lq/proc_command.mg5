@@ -1,4 +1,0 @@
-
-import model Mod2_VLQ_UFO
-define lq = vlq vlq~
-generate p p > lq lq @0

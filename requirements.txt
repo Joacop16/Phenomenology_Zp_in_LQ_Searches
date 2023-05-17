@@ -12,3 +12,4 @@ scikit-learn
 XGBoost
 lxml
 openpyxl
+html5lib 

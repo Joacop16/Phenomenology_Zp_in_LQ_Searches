@@ -16,8 +16,7 @@ def run_mg5_file(proc_file_path, stdout=subprocess.DEVNULL, stderr=subprocess.DE
 
 
 # function to generate different random seeds
-def semilla(seeds):
-    max_seed = 5000
+def semilla(seeds, max_seed = 5000):
     seed = np.random.randint(1, max_seed)
     if len (seeds) == max_seed:
         raise Exception("No more seeds available")
