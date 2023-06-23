@@ -1,3 +1,4 @@
+black
 ipyparallel
 pyppeteer
 jupyter
